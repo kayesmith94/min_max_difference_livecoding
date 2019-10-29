@@ -1,0 +1,11 @@
+C:\Users\Kayeb~\lc101\min_max_difference_livecoding\Min Max Difference\Min Max Difference\bin\Debug\netcoreapp3.0\Min Max Difference.exe
+C:\Users\Kayeb~\lc101\min_max_difference_livecoding\Min Max Difference\Min Max Difference\bin\Debug\netcoreapp3.0\Min Max Difference.deps.json
+C:\Users\Kayeb~\lc101\min_max_difference_livecoding\Min Max Difference\Min Max Difference\bin\Debug\netcoreapp3.0\Min Max Difference.runtimeconfig.json
+C:\Users\Kayeb~\lc101\min_max_difference_livecoding\Min Max Difference\Min Max Difference\bin\Debug\netcoreapp3.0\Min Max Difference.runtimeconfig.dev.json
+C:\Users\Kayeb~\lc101\min_max_difference_livecoding\Min Max Difference\Min Max Difference\bin\Debug\netcoreapp3.0\Min Max Difference.dll
+C:\Users\Kayeb~\lc101\min_max_difference_livecoding\Min Max Difference\Min Max Difference\bin\Debug\netcoreapp3.0\Min Max Difference.pdb
+C:\Users\Kayeb~\lc101\min_max_difference_livecoding\Min Max Difference\Min Max Difference\obj\Debug\netcoreapp3.0\Min Max Difference.csprojAssemblyReference.cache
+C:\Users\Kayeb~\lc101\min_max_difference_livecoding\Min Max Difference\Min Max Difference\obj\Debug\netcoreapp3.0\Min Max Difference.AssemblyInfoInputs.cache
+C:\Users\Kayeb~\lc101\min_max_difference_livecoding\Min Max Difference\Min Max Difference\obj\Debug\netcoreapp3.0\Min Max Difference.AssemblyInfo.cs
+C:\Users\Kayeb~\lc101\min_max_difference_livecoding\Min Max Difference\Min Max Difference\obj\Debug\netcoreapp3.0\Min Max Difference.dll
+C:\Users\Kayeb~\lc101\min_max_difference_livecoding\Min Max Difference\Min Max Difference\obj\Debug\netcoreapp3.0\Min Max Difference.pdb
